@@ -1,0 +1,31 @@
+#rubrik_div{
+    background-color: blue;
+    justify-content: center;
+    border: 5px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+#svartrut{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: black;
+    border: 5px solid green;
+    border-radius: 5px;
+}
+.gultext{
+background-color: yellow;
+margin-left: 50%;
+}
+#bild{
+    border: 2.5px solid black;
+    border-radius: 2,5px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
